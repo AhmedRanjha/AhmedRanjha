@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AhmedRanjha
 - 👀 I’m interested in writing& learning code
-- 🌱 I’m currently learning hybrib mobile app development
+- 🌱 I’m currently learning hybrid mobile app development
 - 💞️ I’m looking to collaborate on anywhere you'll prefer ;)
 
 <!---
